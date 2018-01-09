@@ -1,0 +1,26 @@
+html,body {
+margin:0;
+padding:0;
+  background:#000033; 
+}
+
+button {
+outline:none;
+background-image: radial-gradient(circle 248px at center, #16d9e3 0%, #30c7ec 47%, #46aef7 100%);
+border-radius:6px;
+border:0;
+font-size:1.5em;
+color:#fff;
+}
+
+h1 {
+  margin:0;
+  padding:0;
+	background-image : radial-gradient(circle 248px at center, #16d9e3 0%, #30c7ec 47%, #46aef7 100%);
+  -webkit-background-clip:text;
+	-webkit-text-fill-color: transparent;
+  font-size:2em;
+  font-family:Bungee;
+}
+
+button:hover {background-image: radial-gradient(circle 120px at center, #48c6ef 0%, #6f86d6 100%);}
